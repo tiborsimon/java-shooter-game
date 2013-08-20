@@ -2,7 +2,7 @@
 
 Java Shooter Game is a simple open source Minigore-like game written in java. To read more about the game, visit <http://tibor-simon.com/portfolio/java-shooter-game>.
 
-Source files are located in the src folder, animation frames/sprites are in the res folder. Libraries and native files zou have to include are in the lib folder.
+Source files are located in the src folder, animation frames/sprites are in the res folder. Libraries and native files you have to include are in the lib folder.
 
 ---
 
