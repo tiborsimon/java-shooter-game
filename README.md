@@ -3,7 +3,7 @@
 Java Shooter Game is a simple open source Minigore-like game written in java.
 
 <a title="Latest version" href="https://github.com/tiborsimon/JavaShooterGame/releases/latest" target="_blank">
-   <img src="https://img.shields.io/badge/version-v1.2-green.svg?style=flat" />
+   <img src="https://img.shields.io/badge/version-v1.3-green.svg?style=flat" />
 </a>
 <a title="Goto article" href="http://tiborsimon.github.io/programming/java-shooter-game/" target="_blank">
    <img src="https://img.shields.io/badge/article-read-blue.svg?style=flat" />
