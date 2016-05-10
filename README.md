@@ -1,21 +1,12 @@
 #Java Shooter Game
 
-[![Join the chat at https://gitter.im/tiborsimon/java-shooter-game](https://badges.gitter.im/tiborsimon/java-shooter-game.svg)](https://gitter.im/tiborsimon/java-shooter-game?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 Java Shooter Game is a simple open source Minigore-like game written in java.
 
-<a title="Latest version" href="https://github.com/tiborsimon/JavaShooterGame/releases/latest" target="_blank">
-   <img src="https://img.shields.io/badge/version-v1.3-green.svg?style=flat" />
-</a>
-<a title="Goto article" href="http://tiborsimon.io/programming/java-shooter-game/" target="_blank">
-   <img src="https://img.shields.io/badge/article-read-blue.svg?style=flat" />
-</a>
-<a title="Goto discussion" href="http://tiborsimon.io/programming/java-shooter-game/#discussion" target="_blank">
-   <img src="https://img.shields.io/badge/discussion-join-orange.svg?style=flat" />
-</a>
-<a title="License" href="#license">
-   <img src="http://img.shields.io/badge/license-MIT-green.svg?style=flat" />
-</a>
+[![Gitter](https://img.shields.io/gitter/room/tiborsimon/java-shooter-game.svg?maxAge=2592000)](https://gitter.im/tiborsimon/java-shooter-game?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![GitHub release](https://img.shields.io/github/release/tiborsimon/java-shooter-game.svg?maxAge=2592000)](https://github.com/tiborsimon/JavaShooterGame/releases/latest)
+[![license](https://img.shields.io/github/license/tiborsimon/java-shooter-game.svg?maxAge=2592000)]()
 
 <img src="https://github.com/tiborsimon/java-shooter-game/blob/master/wiki/javashooter-promo.png" width="400" />
 
