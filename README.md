@@ -7,6 +7,7 @@ Java Shooter Game is a simple open source Minigore-like game written in java.
 [![Gitter](https://img.shields.io/gitter/room/tiborsimon/java-shooter-game.svg?maxAge=2592000)](https://gitter.im/tiborsimon/java-shooter-game?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![GitHub release](https://img.shields.io/github/release/tiborsimon/java-shooter-game.svg?maxAge=2592000)](https://github.com/tiborsimon/JavaShooterGame/releases/latest)
 [![license](https://img.shields.io/github/license/tiborsimon/java-shooter-game.svg?maxAge=2592000)]()
+[![Github All Releases](https://img.shields.io/github/downloads/tiborsimon/java-shooter-game/total.svg?maxAge=2592000)](https://github.com/tiborsimon/JavaShooterGame/releases/latest)
 
 <img src="https://github.com/tiborsimon/java-shooter-game/blob/master/wiki/javashooter-promo.png" width="400" />
 
