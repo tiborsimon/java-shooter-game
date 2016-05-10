@@ -1,5 +1,7 @@
 #Java Shooter Game
 
+[![Join the chat at https://gitter.im/tiborsimon/java-shooter-game](https://badges.gitter.im/tiborsimon/java-shooter-game.svg)](https://gitter.im/tiborsimon/java-shooter-game?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Java Shooter Game is a simple open source Minigore-like game written in java.
 
 <a title="Latest version" href="https://github.com/tiborsimon/JavaShooterGame/releases/latest" target="_blank">
